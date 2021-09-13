@@ -1,0 +1,2 @@
+3, milk, 2.0, drink, cooling shelf, 13/2/2021
+2, fish, 2.0, food, freezing shelf, 1/2/2021
